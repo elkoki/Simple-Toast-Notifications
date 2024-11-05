@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toast Simple Notifications</string>
+    <string name="txt_pregunta">Cual fue el numero que vio?</string>
+    <string name="btn">Validar</string>
+</resources>
